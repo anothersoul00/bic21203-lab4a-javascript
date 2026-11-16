@@ -58,7 +58,7 @@ This task demonstrates the use of loops and DOM manipulation. When the user clic
 ### Question 1: Interactive Text Changer
 
 ![Question 1 Output](pictures/q1a-output.png)
-![Question 1 Output](pictures/q1a-output.png)
+![Question 1 Output](pictures/q1b-output.png)
 
 ### Question 2: Smart Number Validator
 
