@@ -49,7 +49,7 @@ This task demonstrates the use of loops and DOM manipulation. When the user clic
 
 1. Download or clone this GitHub repository.
 2. Open the downloaded project folder.
-3. Open the Q1, Q2 or Q3 folder.
+3. Open the q1, q2 or q3 folder.
 4. Open the respective `index.html` file using a web browser or Visual Studio Code Live Server.
 5. Follow the instructions on the webpage to test each program.
 
