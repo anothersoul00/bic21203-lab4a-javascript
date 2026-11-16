@@ -3,8 +3,10 @@ Lab 4a: Client-Side Scripting (JavaScript) for BIC21203 Web Development
 
 ## Student Information
 
-**Name:** SUMAIYYAH NADHIRAH BINTI MOHD AZMI 
-**Matrics Number:** AI250073 
+**Name:** SUMAIYYAH NADHIRAH BINTI MOHD AZMI
+
+**Matrics Number:** AI250073
+
 **Course Code:** BIC21203  
 
 ## 1. Introduction
